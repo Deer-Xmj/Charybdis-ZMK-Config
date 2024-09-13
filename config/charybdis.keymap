@@ -10,7 +10,7 @@
     quick-tap-ms = <150>;
     require-prior-idle-ms = <10>;
 };
-
+ 
 &mt {
     tapping-term-ms = <250>;
     flavor = "tap-preferred";
